@@ -55,7 +55,6 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 
-
-./AwesomeProject.zip
-./AwesomeProjectAndroid.zip
-./MY-CONFIG.txt
+AwesomeProject.zip
+AwesomeProjectAndroid.zip
+MY-CONFIG.txt
