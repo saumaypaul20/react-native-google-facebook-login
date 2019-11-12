@@ -22,7 +22,7 @@ export default class GoogleButton extends Component {
             //It is mandatory to call this method before attempting to call signIn()
             scopes: ['https://www.googleapis.com/auth/userinfo.profile'],
             // Repleace with your webClientId generated from Firebase console
-            webClientId: '788086718743-5he0n74b13s0h8rhf06eljnhcae49mk4.apps.googleusercontent.com',
+            webClientId: 'REPLACE-WITH-YOUR-ID',
           });
           //Check if user is already signed in
           this._isSignedIn();
